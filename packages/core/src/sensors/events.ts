@@ -1,4 +1,5 @@
 export enum EventName {
+  FocusOut = 'focusout',
   Click = 'click',
   DragStart = 'dragstart',
   Keydown = 'keydown',
